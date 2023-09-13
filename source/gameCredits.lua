@@ -11,7 +11,7 @@ gameCredits = {
     -- add as many as you like, the page will scroll
     -- you can add images here too
     lines = {
-		{ text = "A Very Nice Comic"},
-		{ text = "created by *Me*" },
+		{ text = "Playdate Review"},
+		{ text = "created by *BrianJudge*" },
     }
 }
